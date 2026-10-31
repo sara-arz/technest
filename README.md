@@ -67,24 +67,10 @@ Selectors are used to retrieve cart items, wishlist items, total item count, and
 
 ## Application Screenshots
 
-<p align="center">
-  <img src="screenshots/TechNest-dark.png" width="85%" alt="TechNest Homepage"/>
-</p>
+## Application Screenshots
 
 <p align="center">
-  <img src="screenshots/TechNest-shop.png" width="85%" alt="Product Listing"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/TechNest-details.png" width="85%" alt="Product Details"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/TechNest-whishlist.png" width="85%" alt="Shopping Cart"/>
-</p>
-
-<p align="center">
-  <img src="screenshots/TechNest-cart.png" width="85%" alt="Wishlist"/>
+  <img src="screenshots/technest.gif" width="90%" alt="TechNest screenshot slideshow"/>
 </p>
 
 ## 8. Installation and Running Instructions
