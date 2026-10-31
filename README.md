@@ -65,6 +65,13 @@ Selectors are used to retrieve cart items, wishlist items, total item count, and
 
 ## 7. Screenshots
 
+<p align="center">
+  <img src="screenshots/TechNest-dark.png" width="48%" />
+  <img src="screenshots/TechNest-shop.png" width="48%" />
+  <img src="screenshots/TechNest-details.png" width="48%" />
+  <img src="screenshots/TechNest-whishlist.png" width="48%" />
+</p>
+
 ## 8. Installation and Running Instructions
 
 ### Prerequisites
@@ -102,7 +109,3 @@ Open the local URL displayed in your terminal, usually:
 ```text
 http://localhost:5173
 ```
-
-## 9. Project Repository
-
-**GitHub Repository:** https://github.com/sara-arz/technest
