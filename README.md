@@ -111,4 +111,4 @@ http://localhost:5173
 
 ## 10. Additional
 
-- **Live Application:**
+- **Live Application:** https://ttechnest.netlify.app/
