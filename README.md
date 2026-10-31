@@ -1,10 +1,8 @@
 # TechNest – Laptop E-Commerce Store
 
-## 1. Student Information
-
 - **Student Name:** ARZIM Sara
 - **Application Name:** TechNest
-- **Application Type:** Laptop E-Commerce Website
+- **Live Application:** https://ttechnest.netlify.app/
 
 ## 2. Application Description
 
@@ -108,7 +106,3 @@ http://localhost:5173
 ## 9. Project Repository
 
 **GitHub Repository:** https://github.com/sara-arz/technest
-
-## 10. Additional
-
-- **Live Application:** https://ttechnest.netlify.app/
