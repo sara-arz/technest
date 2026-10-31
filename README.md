@@ -66,7 +66,7 @@ Selectors are used to retrieve cart items, wishlist items, total item count, and
 ## 7. Screenshots
 
 <p align="center">
-  <img src="screenshots/technest.gif" width="90%" alt="TechNest screenshot slideshow"/>
+  <img src="screenshots/technest.gif" alt="TechNest screenshot slideshow"/>
 </p>
 
 ## 8. Installation and Running Instructions
